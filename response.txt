@@ -1,0 +1,7 @@
+For the question "where is form and input tag in form taught in this course", let's break it down.
+
+The topic of forms and input tags is covered in Video #7 of our Sigma Web Development Course. Specifically, the video starts at timestamp 0.0 seconds and goes up to approximately 30.9 seconds, where the instructor explains what forms are, how they work, and introduces the concept of input tags.
+
+Later on, around 128.7 seconds into the video, the instructor dives deeper into the details of input tags, explaining their different types (such as text, select, checkbox, etc.), attributes (like name, placeholder, autofocus), and validation rules. This section covers a significant amount of content and is essential for understanding how forms work in HTML.
+
+If you're interested in learning more about this topic, I recommend watching Video #7 from the start. The instructor provides clear explanations, examples, and demonstrations to help solidify your understanding of forms and input tags.

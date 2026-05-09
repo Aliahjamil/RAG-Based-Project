@@ -1,0 +1,14 @@
+audios/
+videos/
+jsons/
+newjsons/
+
+*.mp3
+*.mp4
+*.json
+*.joblib
+*.pkl
+*.bin
+
+.venv/
+__pycache__/
